@@ -8,7 +8,10 @@
     {
       "name": "getui",
       "homepage": "https://www.getui.com/cn"
-    }
+    },
+    {
+        "name": "lvxiang"
+      }
   ],
   "autoload": {
     "classmap": [""]
